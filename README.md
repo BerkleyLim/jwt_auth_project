@@ -4,7 +4,7 @@
 - 백엔드 : Java spring boot를 활용
 
 # 목적
-- 프론트엔드 : React 기반으로 bootstrap에서 Tailwind css로 대처하기 위해 진행
+- 프론트엔드 : React 기반으로 bootstrap에서 Tailwind css로 대처하고, mobX 사용하기 위해 진행
 - 백엔드 : 자신 있는 스택 기준으로 JWT를 완전 정복하고, 하고 있는 프로젝트에 대입한다.
 - 기타 : 각 사용자별 FCM 기능을 수행하기 위해 SSE 기능이 탑재된 프로그램 제작
 
